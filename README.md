@@ -24,10 +24,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create two VM's. One with Windows and one with Linux.
+- Remote connect to the Windows' VM and download Wireshark.
+- Input different commands to see how the interactions between two networks work.
 
 <h2>Actions and Observations</h2>
 
@@ -74,15 +73,16 @@ It should not show any traffic because ICMP is the protocol ping uses. So the on
 <p>
 <img src="https://i.imgur.com/VXqblGE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p> On host PC go to azure>linux-VM>copy PRIVATE ip. Then go back into the open VM.
+<p> 
+  On host PC go to azure>linux-VM>copy PRIVATE ip. Then go back into the open VM> Windows search bar> Type "command prompt"> then inside of the command prompt, type "ping (paste the copied private IP address)
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fPBsGjY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to wireshark and Watch the traffic.
 </p>
 <br />
 
