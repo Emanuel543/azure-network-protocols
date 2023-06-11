@@ -50,7 +50,7 @@ Go to "virtual machines" on azure> go to the Windows' VM> copy the public IP add
 <img src="https://i.imgur.com/r1fVHkR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once logged in, download Wireshark onto VM.
 </p>
 <br />
 
@@ -58,7 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/P7AMBG8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open WireShark> Press Blue shark icon on the top left> Watch traffic unfold. After, type "icmp"(make sure is all lower case, otherwise it won't work).
 </p>
 <br />
 
@@ -66,7 +66,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/bULBIFl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It should not show any traffic because ICMP is the protocol ping uses. So the only way to see traffic through ICMP is to ping something.
+It should not show any traffic because ICMP is the protocol ping uses. So the only way to see traffic through ICMP is to ping a network.
 </p>
 <br />
 
@@ -82,7 +82,7 @@ It should not show any traffic because ICMP is the protocol ping uses. So the on
 <img src="https://i.imgur.com/fPBsGjY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to wireshark and Watch the traffic.
+Go to wireshark and Watch the traffic because now the "icmp" protocol is being used through ping.
 </p>
 <br />
 
@@ -90,7 +90,7 @@ Go to wireshark and Watch the traffic.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+cdvfsdfgdfzgdszgfdzgggggggggggggggggggggggggggggggggggggggggggggggggfdzgfdzgdzfgdfzgdzfgrdzfgzzzz
 </p>
 <br />
 
